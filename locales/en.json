@@ -1,0 +1,336 @@
+{
+  "common": {
+    "nextStep": "Next step",
+    "postNow": "Post now",
+    "choosePlan": "Choose plan",
+    "backToHome": "Back to home page",
+    "total": "Total",
+    "pay": "Pay",
+    "saveDraft": "Save Draft",
+    "edit": "Edit",
+    "save": "Save",
+    "successMessage": "Updated success",
+    "delete": "Delete",
+    "choose": "Choose"
+  },
+  "home": {
+    "recommend": "Recommended for you",
+    "find": "Find more",
+    "featured": "Featured",
+    "premium": "Premium",
+    "latest": "Latest"
+  },
+  "modal": {
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "send": "Send"
+  },
+  "media": {
+    "setTitle": "Set primary image",
+    "setSubtitle": "Set primary image for your listing",
+    "addTitle": "Add more",
+    "addSubtitle": "Set one more additional picture or video",
+    "title": "Add media",
+    "select": "Select Media",
+    "take": "take",
+    "openGallery": "Open gallery"
+  },
+  "notices": {
+    "media": {
+      "p1": "Improve the perfomance of your listing by adding pictures and video of the item for free.",
+      "p2": "The most engaging videos are between 15-20 seconds long."
+    },
+    "wantedItems": "You will get notifications whenever another user inserts an item that maches your wanted item",
+    "wantedTotal": "Total for wanted post is",
+    "extraInfo": "Help potential buyers find your listings by adding as much information as possible."
+  },
+  "onBoarding": {
+    "firstScreen": "Explore new items everyday",
+    "secondScreen": "Find the item you are looking for",
+    "thirdScreen": "Sell your item at your on pace",
+    "getStarted": "Get Started",
+    "skip": "Skip"
+  },
+  "textFields": {
+    "phone": "Phone",
+    "phoneNumber": "Phone number",
+    "phonePlaceholder": "Enter your phone number",
+    "phoneNumberPlaceholder": "Enter user’s phone number",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "newPassword": "New Password",
+    "newPasswordPlaceholder": "Enter new password",
+    "repeatPassword": "Repeat password",
+    "repeatPasswordPlaceholder": "Repeat new password",
+    "repeatNewPassword": "Repeat password",
+    "repeatNewPasswordPlaceholder": "Repeat new password",
+    "code": "Code",
+    "enterCodeFromEmail": "Code was sent on this email",
+    "codePlaceholder": "Enter code",
+    "nameAndSurname": "Name and surname",
+    "nameAndSurnamePlaceholder": "Enter your name and surname",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "country": "Country",
+    "countryPlaceholder": "Choose country",
+    "city": "City",
+    "cityPlaceholder": "Choose city",
+    "selling": "Category*",
+    "sellingPlaceholder": "Choose category",
+    "listing": "Where is your listing?",
+    "listingPlaceholder": "Choose location*",
+    "title": "Title*",
+    "titlePlaceholder": "Enter title",
+    "title2": "Title",
+    "title2Placeholder": "Enter title of wanted item (keyword)",
+    "description": "Description*",
+    "descriptionPlaceholder": "Description",
+    "price": "Price*",
+    "pricePlaceholder": "Enter price",
+    "district": "District*",
+    "districtPlaceholder": "Choose district",
+    "area": "Area*",
+    "areaPlaceholder": "Choose area",
+    "cardNumber": "Car number",
+    "cardNumberPlaceholder": "Enter card number",
+    "cardHolder": "Card holder full name",
+    "cardHolderPlaceholder": "Enter name",
+    "expDate": "Exp date",
+    "expDatePlaceholder": "MM/YY",
+    "cvc": "CVC",
+    "cvcPlaceholder": "Enter CVC",
+    "bodyType": "Body type",
+    "bodyTypePlaceholder": "Body type",
+    "year": "Year",
+    "yearPlaceholder": "Year",
+    "colorExterior": "Color Exterior",
+    "colorExteriorPlaceholder": "Color Exterior",
+    "colorInterior": "Color Interior",
+    "colorInteriorPlaceholder": "Color Interior",
+    "plate": "Plate number",
+    "platePlaceholder": "Plate number",
+    "mileage": "Kilometer",
+    "mileagePlaceholder": "Kilometer",
+    "import": "Import",
+    "importPlaceholder": "Import",
+    "transmission": "Transmission",
+    "condition": "Condition",
+    "features": "Additional features",
+    "fuel": "Fuel type",
+    "seats": "Seats material",
+    "sunroof": "Sunroof",
+    "cylinders": "Cylinders",
+    "report": "Why we should remove this ad?",
+    "reportPlaceholder": "Enter here",
+    "brands": "Brand - Model*",
+    "brandsPlaceholder": "Brand - Model",
+    "newEmailLabel": "Enter New Email",
+    "newPhoneNumberLabel": "Enter New Phone"
+  },
+  "auth": {
+    "login": {
+      "title": "Log in",
+      "info": "Log in to your Q8Rider profile",
+      "forgotPassword": "Forgot password?",
+      "createAccount": "Create account",
+      "selectCode": "Enter your phone number"
+    },
+    "restorePassword": {
+      "title": "Restore password",
+      "button": "Send code"
+    },
+    "enterCode": {
+      "title": "Enter code",
+      "button": "Submit",
+      "oneMoreTime": "Send code one more time"
+    },
+    "newPassword": {
+      "title": "New password",
+      "button": "Submit"
+    },
+    "signUp": {
+      "info": "Create your Q8Rider profile",
+      "button": "Sign up",
+      "link": "Log in"
+    }
+  },
+  "fillProfile": {
+    "title": "Fill profile",
+    "upload": "Upload photo",
+    "button": "Save"
+  },
+  "postYourListing": {
+    "title": "Post Your Listing"
+  },
+  "categories": {
+    "title": "Categories"
+  },
+  "carsCountries": {
+    "title": "Cars"
+  },
+  "cars": {
+    "title": "{{country}} Cars",
+    "errorText": "Select Car Brand First !",
+    "modalTitle": "Choose Car Model",
+    "button": "Choose Car Model"
+  },
+  "addPost": {
+    "title": "Add your post",
+    "question": "What do you want to post?",
+    "postListing": "Post listing",
+    "postWanted": "Post wanted item",
+    "trading": "Trade In"
+  },
+  "trading": {
+    "title": "Car Trade In",
+    "notice": "We buy your car for the best price",
+    "tradeType": "Trade Type",
+    "contact": "Contact Option"
+  },
+  "location": {
+    "share": "Share location",
+    "title": "Listing location"
+  },
+  "wantedItems": {
+    "title": "Wanted items"
+  },
+  "choosePlan": {
+    "title": "Choose plan"
+  },
+  "success": {
+    "title": "Success!",
+    "subtitle": "Thank you for using Q8Rider",
+    "trading": "We will contact you after reviewing your listing"
+  },
+  "checkout": {
+    "title": "Checkout"
+  },
+  "extraInfo": {
+    "title": "Add extra information",
+    "optional": "Optional information",
+    "selections": "Selections",
+    "advanced": "Advanced"
+  },
+  "myAccount": {
+    "account": "Account",
+    "editProfile": "Edit profile",
+    "menu": {
+      "myListings": "My listings",
+      "payments": "Payments",
+      "chats": "Chats",
+      "recentlyViewed": "Recently viewed",
+      "buyTokens": "Buy Tokens",
+      "favourite": "No favourite posts"
+    },
+    "support": "Support",
+    "about": "About app",
+    "termConditions": "Terms & Conditions",
+    "recentlyViewed": "Recently viewed",
+    "modal": {
+      "chooseCredits": "Choose credits",
+      "creditsPackage": " Credits package",
+      "addToBalance": "Add {{item}}.00 KD credits to your balance"
+    },
+    "language": "Language"
+  },
+  "myListings": {
+    "title": "My listings",
+    "myListings": "Post listings",
+    "wantedItems": "Wanted listings",
+    "selectYear": "Select year",
+    "activeList": "Active listings",
+    "archivedList": "Archived listings"
+  },
+  "favorites": {
+    "favorites": "Favorites"
+  },
+  "editProfile": {
+    "editProfile": "Edit profile",
+    "deletePhoto": "Delete photo",
+    "changePassword": "Change password",
+    "deleteAcc": "Delete my account",
+    "currentPass": "Current password",
+    "enterCurrentPass": "Enter current password",
+    "changeContactInfo": "Change contact information",
+    "notSameValidError": "Password or Email cannot be the same as before"
+  },
+  "payments": {
+    "payments": "Payments"
+  },
+  "aboutApp": {
+    "aboutApp": "About app"
+  },
+  "support": {
+    "support": "Support",
+    "agents": "Agents",
+    "createTicket": "Create ticket",
+    "faq": "FAQ",
+    "callUs": "Call us",
+    "agent": {
+      "agents": "Agents",
+      "contact": "Contact",
+      "call": "Call"
+    },
+    "emailAddress": "Email Address",
+    "enterEmail": "Enter you email address",
+    "title": "Title",
+    "enterTitle": "Enter ticket title",
+    "description": "Description*",
+    "enterDescription": "Enter ticket description",
+    "myTickets": "My tickets",
+    "send": "Send",
+    "success": "Success",
+    "done": "Done",
+    "successMessage": "Your ticket create successfully. If a reply is needed, we will contact you shortly.",
+    "searchQuestion": "Search a question",
+    "search": "Search",
+    "title1": "Most asked questions",
+    "title2": "Pinning Ads",
+    "title3": "Problem and Solution",
+    "askedQuestions": "Most asked question"
+  },
+  "productScreen": {
+    "mileage": "{{amount}} kilometer",
+    "dealer": "Dealer",
+    "dealerAdsTitle": "Ads from this dealer",
+    "verifiedDelear": "Verified dealer",
+    "verifiedPhone": "Verified phones",
+    "member": "Member since {{date}}",
+    "viewAllDeals": "View all ads from this dealer",
+    "otherAds": "Other ads from this dealer",
+    "report": "Report abuse",
+    "description": "Description",
+    "moreInfo": "More information",
+    "lessInfo": "Less information",
+    "price": "{{price}} KWD",
+    "location": "Location",
+    "noAdsYet": "No ads yet"
+  },
+  "chat": {
+    "title": "Messages",
+    "from": "View ads from",
+    "writeMessage": "Write message"
+  },
+  "adsFromDealer": {
+    "title": "Ads from dealer"
+  },
+  "terms": {
+    "title": "Terms & Conditions"
+  },
+  "contacts": {
+    "chat": "Chat",
+    "call": "Call"
+  },
+  "advanced": {
+    "title": "Advanced search",
+    "search": "Search"
+  },
+  "postEdit": {
+    "refreshListing": "Refresh Listing",
+    "title": "Edit Your Listing",
+    "extraInfoTitle": "Update extra information",
+    "rotate": "Rotate",
+    "crop": "Crop",
+    "draw": "Draw"
+  }
+}

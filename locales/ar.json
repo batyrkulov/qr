@@ -1,0 +1,312 @@
+{
+  "common": {
+    "nextStep": "استمرار ",
+    "postNow": "Post now",
+    "choosePlan": "اﻟﺨﻄﻮة اﻟﺘﺎﻟﻴﺔ",
+    "backToHome": "العودة إلى الصفحة الرئيسية",
+    "total": "الاجمالي",
+    "pay": "دفع",
+    "saveDraft": "Save Draft",
+    "edit": "Edit",
+    "save": "Save",
+    "successMessage": "Updated success",
+    "delete": "Delete",
+    "choose": "Choose"
+  },
+  "home": {
+    "recommend": "اﻋﻠﺎﻧﺎت ﻣﺨﺘﺎرة",
+    "find": "المزيد",
+    "featured": "اﻋﻠﺎﻧﺖ ﻣﻤﻴﺰة",
+    "latest": "آﺧﺮ اﻟﺎﻋﻠﺎﻧﺎت",
+    "premium": "مميزة"
+  },
+  "modal": {
+    "apply": "استمرار",
+    "cancel": "إلغاء",
+    "send": "إرسال"
+  },
+  "media": {
+    "setTitle": "اﻟﺼﻮرة اﻟﺄﺳﺎﺳﻴﺔ",
+    "setSubtitle": "اﻟﺼﻮرة اﻟﺄﺳﺎﺳﻴﺔ ﻟﻠﺎﻋﻠﺎن",
+    "addTitle": "أﺿﻒ اﻟﻤﺰﻳﺪ",
+    "addSubtitle": "اﺿﻒ ﺻﻮر أﺧﺮى",
+    "title": "ﻣﻌﻠﻮﻣﺎت إﺿﺎﻓﻴﺔ",
+    "select": "Select Media",
+    "take": "take",
+    "openGallery": "Open gallery"
+  },
+  "notices": {
+    "media": {
+      "p1": "ﻗﻢ ﺑﺘﺤﺴﻴﻦ أداء اﻋﻠﺎﻧﻚ ﻋﻦ ﻃﺮﻳﻖ إﺿﺎﻓﺔ ﺻﻮر وﻓﻴﺪﻳﻮ ﻣﺠﺎنًا. ﺗﺘﺮاوح ﻣﺪة ﻣﻘﺎﻃﻊ اﻟﻔﻴﺪﻳﻮ اﻟﺄﻛﺜﺮ ﺟﺎذﺑﻴﺔ ﺑﻴﻦ 15 و 20 ﺛﺎﻧﻴﺔ.",
+      "p2": ""
+    },
+    "wantedItems": "ﺳﺘﺘﻠﻘﻰ إﺷﻌﺎرات ﻋﻨﺪﻣﺎ ﻳﻘﻮم ﻣﺴﺘﺨﺪم آﺧﺮ ﺑﺈدراج ﻋﻨﺼﺮ ﻳﻄﺎﺑﻖ اﻟﻌﻨﺼﺮ اﻟﺬي ﺗﺮﻳﺪه",
+    "wantedTotal": "سعر اعلان المطلوب هو 3 د.ك.",
+    "extraInfo": " ﻋﻠﻰ اﻋﻠﺎﻧﻚ ﻋﻦ ﻃﺮﻳﻖ إﺿﺎﻓﺔ أﻛﺒﺮ ﻗﺪر ﻣﻤﻜﻦ ﻣﻦ اﻟﻤﻌﻠﻮﻣﺎت. ﺳﺎﻋﺪ اﻟﻤﺸﺘﺮﻳﻦ اﻟﻤﺤﺘﻤﻠﻴﻦ ﻓﻲ اﻟﻌﺜﻮر"
+  },
+  "onBoarding": {
+    "firstScreen": "اﺳﺘﻜﺸﻒ ﻣﻨﺘﺠﺎت ﺟﺪﻳﺪة ﻛﻞ ﻳﻮم",
+    "secondScreen": "اﺑﺤﺚ ﻋﻦ اﻟﻤﻨﺘﺞ اﻟﺬي تُدوِّر  ﻋﻨﻪ",
+    "thirdScreen": "ﺑﻴﻊ ﻣﻨﺘﺠﻚ ﻓﻲ اي ﻣﻜﺎن و زﻣﺎن",
+    "getStarted": "ابدأ الآن",
+    "skip": "Skip"
+  },
+
+  "textFields": {
+    "phone": "رﻗﻢ ﻫﺎﺗﻒ",
+    "phoneNumber": "رقم التليفون",
+    "phonePlaceholder": "أدﺧﻞ رﻗﻢ ﻫﺎﺗﻔﻚ",
+    "phoneNumberPlaceholder": "أدخل رقم هاتف المستخدم",
+    "password": "ﻛﻠﻤﺔ اﻟﺴﺮ",
+    "passwordPlaceholder": "أدﺧﻞ ﻛﻠﻤﺔ اﻟﺴﺮ اﻟﺨﺎﺻﺔ ﺑﻚ",
+    "newPassword": "ﻛﻠﻤﺔ اﻟﺴﺮ اﻟﺠﺪﻳﺪة",
+    "newPasswordPlaceholder": "أدﺧﻞ ﻛﻠﻤﺔ اﻟﺴﺮ اﻟﺠﺪﻳﺪة",
+    "repeatPassword": "ﺗﺄﻛﻴﺪ ﻛﻠﻤﺔ اﻟﺴﺮ ",
+    "repeatPasswordPlaceholder": "ﺗﺄﻛﻴﺪ ﻛﻠﻤﺔ اﻟﺴﺮ",
+    "repeatNewPassword": "ﺗﺄﻛﻴﺪ ﻛﻠﻤﺔ اﻟﺴﺮ اﻟﺠﺪﻳﺪة",
+    "repeatNewPasswordPlaceholder": "ﺗﺄﻛﻴﺪ ﻛﻠﻤﺔ اﻟﺴﺮ اﻟﺠﺪﻳﺪة",
+    "code": "الرمز",
+    "codePlaceholder": "ادﺧﻞ اﻟﺮﻣﺰ اﻟﻤﺮﺳﻞ اﻟﻴﻚ ",
+    "nameAndSurname": "اﻟﺎﺳﻢ اﻟﻜﺎﻣﻞ",
+    "nameAndSurnamePlaceholder": "ادﺧﻞ اﺳﻤﻚ اﻟﻜﺎﻣﻞ",
+    "email": "اﻟﺒﺮﻳﺪ اﻟﺈﻟﻜﺘﺮوﻧﻲ",
+    "emailPlaceholder": "ادﺧﻞ ﺑﺮﻳﺪك اﻟﺈﻟﻜﺘﺮوﻧﻲ",
+    "country": "دولة",
+    "countryPlaceholder": "كويت",
+    "city": "مدينة",
+    "cityPlaceholder": "اﺧﺘﺮ اﻟﻤﺪﻳﻨﺔ",
+    "selling": "ﻣﺎ اﻟﺬي ﺗﺮﻳﺪ ﺑﻴﻌﻪ ؟",
+    "sellingPlaceholder": "اﺧﺘﺮ اﻟﻔﺌﺔ",
+    "listing": "ﻋﻨﻮان اﻋﻠﺎﻧﻚ",
+    "listingPlaceholder": "اﺧﺘﻴﺎر ﻣﻮﻗﻊ اﻟﺎﻋﻠﺎن*",
+    "title": "ﻋﻨﻮان اﻟﺎﻋﻠﺎن*",
+    "titlePlaceholder": "ادﺧﻞ ﻋﻨﻮان اﻟﺎﻋﻠﺎن",
+    "title2": "ﻋﻨﻮان اﻟﺎﻋﻠﺎن",
+    "title2Placeholder": "أدﺧﻞ ﻋﻨﻮان اﻟﺎﻋﻠﺎن",
+    "price": "ﺳﻌﺮ*",
+    "pricePlaceholder": "ادﺧﻞ اﻟﺴﻌﺮ*",
+    "district": "المحافظة",
+    "districtPlaceholder": "اﺧﺘﺮ ﻣﺤﺎﻓﻈﺔ اﻟﺎﻋﻠﺎن",
+    "area": "المنطقة",
+    "areaPlaceholder": "اﺧﺘﺮ اﻟﻤﻨﻄﻘﺔ",
+    "cardNumber": "رﻗﻢ اﻟﺒﻄﺎﻗﺔ",
+    "cardNumberPlaceholder": "Enter card number",
+    "cardHolder": "اﻟﺎﺳﻢ اﻟﻜﺎﻣﻞ ﻟﺤﺎﻣﻞ اﻟﺒﻄﺎﻗﺔ",
+    "cardHolderPlaceholder": "Enter name",
+    "expDate": "ﺗﺎرﻳﺦ اﻧﺘﻬﺎء اﻟﺼﻠﺎﺣﻴﺔ",
+    "expDatePlaceholder": "MM/YY",
+    "cvc": "CVC",
+    "cvcPlaceholder": "Enter CVC",
+    "report": "ﻟﻤﺎذا ﻳﺠﺐ ﻋﻠﻴﻨﺎ إزاﻟﺔ ﻫﺬا اﻟﺈﻋﻠﺎن ؟",
+    "reportPlaceholder": "اﻟﻤﺮﺟﻮ ﻛﺘﺎﺑﺔ ﻫﻨﺎ",
+    "description": "وﺻﻒ اﻟﺎﻋﻠﺎن*",
+    "descriptionPlaceholder": "وﺻﻒ اﻟﺎﻋﻠﺎن",
+    "newEmailLabel": "أدخل بريد إلكتروني جديد",
+    "newPhoneNumberLabel": "أدخل هاتف جديد",
+    "enterCodeFromEmail": "تم إرسال الرمز على هذا البريد الإلكتروني"
+  },
+  "auth": {
+    "login": {
+      "title": "ﺗﺴﺠﻴﻞ اﻟﺪﺧﻮل",
+      "info": "ﺗﺴﺠﻴﻞ اﻟﺪﺧﻮل إﻟﻰ ﺣﺴﺎﺑﻚ",
+      "forgotPassword": "ﻫﻞ ﻧﺴﻴﺖ ﻛﻠﻤﺔ اﻟﺴﺮ؟",
+      "createAccount": "إﻧﺸﺎء ﺣﺴﺎب",
+      "selectCode": "أدخل رقم هاتفك"
+    },
+    "restorePassword": {
+      "title": "اﺳﺘﻌﺎدة ﻛﻠﻤﺔ اﻟﻤﺮور",
+      "button": "أرسل الرمز"
+    },
+    "enterCode": {
+      "title": "SMS ﻛﻮد",
+      "button": "استمرار",
+      "oneMoreTime": "أرﺳﻞ اﻟﺮﻣﺰ ﻣﺮة أﺧﺮى"
+    },
+    "newPassword": {
+      "title": "ﻛﻠﻤﺔ اﻟﺴﺮ",
+      "button": "استمرار"
+    },
+    "signUp": {
+      "info": "إﻧﺸﺎء ﺣﺴﺎب",
+      "button": "إﻧﺸﺎء ﺣﺴﺎب",
+      "link": "ﺗﺴﺠﻴﻞ اﻟﺪﺧﻮل"
+    }
+  },
+  "fillProfile": {
+    "title": "Fill profile",
+    "upload": "ﺣﻤﻞ ﺻﻮرة ﺣﺴﺎﺑﻚ",
+    "button": "حفظ"
+  },
+  "postYourListing": {
+    "title": "اﻧﺸﺮ اﻋﻠﺎﻧﻚ "
+  },
+  "categories": {
+    "title": "فئات"
+  },
+  "carsCountries": {
+    "title": "سيارات"
+  },
+  "cars": {
+    "title": "{{country}} Cars",
+    "errorText": "اﺧﺘﺮ اﻟﻤﺎرﻛﺔ أوﻟﺎً !",
+    "modalTitle": "اﺧﺘﻴﺎر اﻟﻄﺮاز",
+    "button": "اﺧﺘﻴﺎر اﻟﻄﺮاز"
+  },
+  "addPost": {
+    "title": "اﻧﺸﺮ اﻋﻠﺎﻧﻚ",
+    "question": "ﻣﺎ اﻟﺬي ﺗﺮﻳﺪ ﺑﻴﻌﻪ ؟ ",
+    "postListing": "اﻋﻠﺎن ﺑﻴﻊ ",
+    "postWanted": "مطلوب ",
+    "trading": "تثمين"
+  },
+  "trading": {
+    "title": "تثمين",
+    "notice": "We buy your car for the best price",
+    "tradeType": "Trading Type",
+    "contact": "Contact Option"
+  },
+  "location": {
+    "title": "ﻋﻨﻮان اﻋﻠﺎﻧﻚ",
+    "share": "ﻣﺸﺎرﻛﺔ ﻣﻮﻗﻌﻚ"
+  },
+  "wantedItems": {
+    "title": "مطلوب"
+  },
+  "choosePlan": {
+    "title": "اﺧﺘﺮ ﺧﻄﺔ اﻟﺪﻓﻊ"
+  },
+  "success": {
+    "title": "ﺗﻤﺖ إﺿﺎﻓﺔ اﻋﻠﺎﻧﻚ ﺑﻨﺠﺎح",
+    "subtitle": "ﺷﻜﺮًا ﻟﻚ ﻋﻠﻰ اﺳﺘﺨﺪام Q8Rider",
+    "trading": "We will contact you after reveiwing your listing "
+  },
+  "checkout": {
+    "title": "الدفع"
+  },
+  "extraInfo": {
+    "title": "ﻣﻌﻠﻮﻣﺎت إﺿﺎﻓﻴﺔ"
+  },
+  "myAccount": {
+    "account": "حسابي",
+    "editProfile": "تعديل الملف الشخصي",
+    "menu": {
+      "myListings": "اعلاناتي",
+      "payments": "المدفوعات",
+      "chats": "المحادثات",
+      "recentlyViewed": "شوهدت مؤخرا",
+      "buyTokens": "Buy Tokens",
+      "favourite": "لا توجد اعلانات مفضلة"
+    },
+    "support": "مساعدة",
+    "about": "حول التطبيق",
+    "termConditions": "البنود و الظروف",
+    "recentlyViewed": "شوهدت مؤخرا",
+    "modal": {
+      "chooseCredits": "Choose credits",
+      "creditsPackage": " Credits package",
+      "addToBalance": "Add {{item}}.00 KD credits to your balance"
+    },
+    "language": "لغة"
+  },
+  "myListings": {
+    "title": "اعلاناتي",
+    "myListings": "اعلاناتي",
+    "wantedItems": "مطلوب",
+    "selectYear": "اختر السنة",
+    "allList": "جميع اعلاناتي",
+    "archivedList": "اعلانات مؤرشفة",
+    "activeList": "إﻋﻠﺎﻧﺎت ﻧﺸﻄﺔ"
+  },
+  "favorites": {
+    "favorites": "المفضلة"
+  },
+  "editProfile": {
+    "editProfile": "تعديل الملف الشخصي",
+    "deletePhoto": "حدف صورة",
+    "changePassword": "تغيير كلمة السر",
+    "deleteAcc": "حدف الحساب",
+    "currentPass": "كلمة السر الحالية",
+    "enterCurrentPass": "ادخل كلمة السر الحالية",
+    "changeContactInfo": "تغيير معلومات الاتصال",
+    "notSameValidError": "لا يمكن أن تكون كلمة المرور أو البريد الإلكتروني هي نفسها كما كانت من قبل"
+  },
+  "payments": {
+    "payments": "المدفوعات"
+  },
+  "aboutApp": {
+    "aboutApp": "حول التطبيق"
+  },
+  "support": {
+    "support": "مساعدة",
+    "agents": "مساعدين",
+    "createTicket": "إنشاء تذكرة",
+    "faq": "الأسئلة الشائعة",
+    "callUs": "اتصل بنا",
+    "agent": {
+      "agents": "مساعدين",
+      "contact": "تواصل",
+      "call": "اتصل بي"
+    },
+    "emailAddress": "البريد الإلكتروني",
+    "enterEmail": "ادخل بريدك الإلكتروني",
+    "title": "موضوع",
+    "enterTitle": "ادخل موضوع التذكرة",
+    "description": "رسالة",
+    "enterDescription": "ادخل الرسالة",
+    "myTickets": "تذاكري",
+    "send": "إرسال",
+    "success": "تمت بنجاح",
+    "done": "مت",
+    "successMessage": "تم إنشاء تذكرتك بنجاح. إذا كانت هناك حاجة إلى رد ، فسنتصل بك قريبًا.",
+    "searchQuestion": "ابحث عن سؤال",
+    "search": "بحث",
+    "title1": "الأسئلة الأكثر شيوعًا",
+    "title2": "الإعلانات",
+    "title3": "المشاكل والحلول",
+    "askedQuestions": "الأسئلة الأكثر شيوعًا"
+  },
+  "productScreen": {
+    "mileage": "{{amount}} كيلومترات",
+    "dealer": "بائع",
+    "dealerAdsTitle": "إﻋﻠﺎﻧﺎت أﺧﺮى ﻣﻦ ﻫﺬا اﻟﺘﺎﺟﺮ",
+    "member": "ﻋﻀﻮ ﻣﻨﺬ ﻣﺎرس {{date}}",
+    "verifiedDelear": "ﺗﺎﺟﺮ ﻣﻌﺘﻤﺪ",
+    "verifiedPhone": "ﻫﺎﺗﻒ ﻣﻌﺘﻤﺪ",
+    "viewAllDeals": "ﻋﺮض ﺟﻤﻴﻊ إﻋﻠﺎﻧﺎت اﻟﺘﺎﺟﺮ",
+    "otherAds": "إﻋﻠﺎﻧﺎت أﺧﺮى ﻣﻦ ﻫﺬا اﻟﺘﺎﺟﺮ",
+    "report": "اﺑﻠﻎ ﻋﻦ اﺳﺎءه",
+    "description": "وصف",
+    "moreInfo": "المزيد",
+    "lessInfo": "ﻣﻌﻠﻮﻣﺎت أﻗﻞ",
+    "price": "{{price}}  د.ك",
+    "noAdsYet": "لا إعلانات حتى الآن",
+    "location": "العنوان"
+  },
+  "chat": {
+    "title": "الرسائل",
+    "from": "عرض إعلانات من",
+    "writeMessage": "اكتب رسالة"
+  },
+  "adsFromDealer": {
+    "title": "إﻋﻠﺎﻧﺎت اﻟﺘﺎﺟﺮ"
+  },
+  "terms": {
+    "title": "الشروط والأحكام"
+  },
+  "contacts": {
+    "chat": "محادثة",
+    "call": "اتصال"
+  },
+  "advanced": {
+    "title": "بحث متقدم",
+    "search": "بحث"
+  },
+  "postEdit": {
+    "refreshListing": "تحديث القائمة",
+    "title": "تحرير قائمتك",
+    "extraInfoTitle": "تحديث المعلومات الإضافية",
+    "rotate": "استدارة",
+    "crop": "قتصاص",
+    "draw": "رسم"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112135703704",
+    "project_id": "q8rider-2904f",
+    "storage_bucket": "q8rider-2904f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112135703704:android:5bcadabdd783f96ad0d4ed",
+        "android_client_info": {
+          "package_name": "com.q8rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112135703704-r9d9b1vmo74gq2jaeusqiegdfm0s1spf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDec2keGSiis-GICgjZivroQyKSULzk6mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112135703704-r9d9b1vmo74gq2jaeusqiegdfm0s1spf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112135703704-u193eflnb0me2dg3r09jvve16gv8j2d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kuwaitrider",
+                "app_store_id": "1577576713"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
